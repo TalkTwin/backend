@@ -9,7 +9,8 @@ storage/
 .idea/
 .vscode/
 
-# docs: push README.md only (design notes stay local)
+# docs: push README + ARCHITECTURE only (planning notes stay local)
 *.md
 !README.md
+!ARCHITECTURE.md
  
