@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+storage/
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+
+# docs: push README.md only (design notes stay local)
+*.md
+!README.md
+ 
